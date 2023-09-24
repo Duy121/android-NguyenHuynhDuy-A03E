@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71426517822",
+    "project_id": "login-register-aac4f",
+    "storage_bucket": "login-register-aac4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71426517822:android:623b7fb19995d1dba35a6f",
+        "android_client_info": {
+          "package_name": "com.example.lab1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDi-74EJV_eLzC3Vnp8gWZwMJgUFlsDSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
